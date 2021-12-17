@@ -1,0 +1,14 @@
+GET /detail/5871,3,id HTTP/2
+Host: staging.jackfrosttower.com
+Cookie: _csrf=JSjHjmind-t3npVPXQW5LloL; connect.sid=s%3A-fFEs8EKJbVqqUnCAP8K-7ebkTyne3xU.ZVY%2Ff4LOWS0l8c9%2FhXKcchqZ0SJPqCrBN10r0K%2BtiNE
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Te: trailers
+

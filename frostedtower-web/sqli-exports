@@ -1,0 +1,2617 @@
+HTTP/2 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 92485
+Etag: W/"16945-KexEdDLjrc3vz+lZgEhGKhHcwrA"
+Date: Thu, 16 Dec 2021 03:39:40 GMT
+Via: 1.1 google
+Alt-Svc: clear
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Detail Contact</title>
+    <link href="/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+
+    <div class="wrapcontent">
+        <div class="wrapdtbl">
+            <div class="cell">
+                <div class="inner innerlist rowtop">
+                    <p>Hello, <strong>mikeyboy</strong>  
+
+                    
+                        <a href="/logout">[ Logout ]</a> - <a href="/adduser">[ Add User ]</a>
+                    
+                    </p>
+                </div>
+
+                <div class="inner innerlist">
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/ALL_PLUGINS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/ALL_PLUGINS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/APPLICABLE_ROLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/APPLICABLE_ROLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/CHARACTER_SETS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/CHARACTER_SETS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/CHECK_CONSTRAINTS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/CHECK_CONSTRAINTS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/COLLATIONS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/COLLATIONS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/COLLATION_CHARACTER_SET_APPLICABILITY">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/COLLATION_CHARACTER_SET_APPLICABILITY" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/COLUMNS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/COLUMNS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/COLUMN_PRIVILEGES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/COLUMN_PRIVILEGES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/ENABLED_ROLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/ENABLED_ROLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/ENGINES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/ENGINES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/EVENTS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/EVENTS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/FILES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/FILES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/GLOBAL_STATUS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/GLOBAL_STATUS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/GLOBAL_VARIABLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/GLOBAL_VARIABLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/KEYWORDS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/KEYWORDS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/KEY_CACHES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/KEY_CACHES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/KEY_COLUMN_USAGE">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/KEY_COLUMN_USAGE" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/OPTIMIZER_TRACE">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/OPTIMIZER_TRACE" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/PARAMETERS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/PARAMETERS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/PARTITIONS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/PARTITIONS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/PLUGINS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/PLUGINS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/PROCESSLIST">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/PROCESSLIST" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/PROFILING">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/PROFILING" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/REFERENTIAL_CONSTRAINTS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/REFERENTIAL_CONSTRAINTS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/ROUTINES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/ROUTINES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SCHEMATA">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SCHEMATA" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SCHEMA_PRIVILEGES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SCHEMA_PRIVILEGES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SESSION_STATUS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SESSION_STATUS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SESSION_VARIABLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SESSION_VARIABLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/STATISTICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/STATISTICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SQL_FUNCTIONS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SQL_FUNCTIONS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SYSTEM_VARIABLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SYSTEM_VARIABLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TABLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TABLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TABLESPACES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TABLESPACES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TABLE_CONSTRAINTS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TABLE_CONSTRAINTS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TABLE_PRIVILEGES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TABLE_PRIVILEGES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TRIGGERS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TRIGGERS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/USER_PRIVILEGES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/USER_PRIVILEGES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/VIEWS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/VIEWS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/CLIENT_STATISTICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/CLIENT_STATISTICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INDEX_STATISTICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INDEX_STATISTICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_CONFIG">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_CONFIG" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/GEOMETRY_COLUMNS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/GEOMETRY_COLUMNS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_TABLESTATS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_TABLESTATS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/SPATIAL_REF_SYS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/SPATIAL_REF_SYS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/USER_STATISTICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/USER_STATISTICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_TRX">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_TRX" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMP_PER_INDEX">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMP_PER_INDEX" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_METRICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_METRICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_DELETED">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_DELETED" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMP">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMP" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/THREAD_POOL_WAITS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/THREAD_POOL_WAITS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMP_RESET">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMP_RESET" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/THREAD_POOL_QUEUES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/THREAD_POOL_QUEUES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/TABLE_STATISTICS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/TABLE_STATISTICS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_FIELDS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_FIELDS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_BUFFER_PAGE_LRU">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_BUFFER_PAGE_LRU" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_LOCKS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_LOCKS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_INDEX_TABLE">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_INDEX_TABLE" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMPMEM">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMPMEM" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/THREAD_POOL_GROUPS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/THREAD_POOL_GROUPS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMP_PER_INDEX_RESET">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMP_PER_INDEX_RESET" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_FOREIGN_COLS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_FOREIGN_COLS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_INDEX_CACHE">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_INDEX_CACHE" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_BUFFER_POOL_STATS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_BUFFER_POOL_STATS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_BEING_DELETED">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_BEING_DELETED" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_FOREIGN">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_FOREIGN" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_CMPMEM_RESET">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_CMPMEM_RESET" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_FT_DEFAULT_STOPWORD">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_FT_DEFAULT_STOPWORD" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_TABLES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_TABLES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_COLUMNS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_COLUMNS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_TABLESPACES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_TABLESPACES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_INDEXES">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_INDEXES" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_BUFFER_PAGE">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_BUFFER_PAGE" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_SYS_VIRTUAL">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_SYS_VIRTUAL" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/user_variables">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/user_variables" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_TABLESPACES_ENCRYPTION">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_TABLESPACES_ENCRYPTION" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/INNODB_LOCK_WAITS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/INNODB_LOCK_WAITS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/THREAD_POOL_STATS">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/THREAD_POOL_STATS" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/users">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/users" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/todo">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/todo" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/emails">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/emails" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+
+                    <h1></h1>
+
+                    <ul class="datadetail">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>December 16th, 2021 3:39:40</li>
+                        <li>
+                        
+                            December 16th, 2021 3:39:40
+                                             
+                        </li>
+                    </ul>
+
+                    <div class="button">
+                        <a href="/edit/uniquecontact">Edit</a>
+
+                        
+
+                            <form method="POST" action="/delete/uniquecontact" onsubmit="return confirm('Do you really want to delete the record?');">
+                                <input type="hidden" name="_csrf" value="c4uNxMob-h6rMLF9Xr-mx-oMpKuEW66p6Ub4">
+                                <input type="submit" name="submit" value="Delete">
+                            </form>
+
+                        
+
+                        <a href="/dashboard">Dashboard</a>
+                    </div>
+
+                    
+                
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
